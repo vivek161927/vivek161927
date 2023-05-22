@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivek161927](https://github.com/vivek161927)
 
-- 💬 Ask me about **java ,spring,servlet,jsp,jdbc,**
+- 💬 Ask me about ** Full stack development(Core java ,J2EE,spring,servlet,jsp,jdbc,Html,css,JavaScript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vivek161927/**
 
