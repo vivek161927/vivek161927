@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/vivek161927/vivek161927/blob/main/coding-system-minimal-infographic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
