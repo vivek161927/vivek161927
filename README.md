@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **https://www.linkedin.com/in/vivek161927/**
 
-- 📄 Know about me in details [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about me in details ..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
